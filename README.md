@@ -1,18 +1,8 @@
-[![npm version](https://badge.fury.io/js/username-generator.svg)](https://badge.fury.io/js/username-generator)
-[![Build Status](https://travis-ci.org/alenoir/username-generator.svg?branch=master)](https://travis-ci.org/alenoir/username-generator)
-[![codecov](https://codecov.io/gh/alenoir/username-generator/branch/master/graph/badge.svg)](https://codecov.io/gh/alenoir/username-generator)
-
 # username-generator
 
-Generate a username randomly
+The CodeDragon-modified child-friendly username generator.
 
-##Installation
-
-```javascript
-npm install username-generator --save
-```
-
-### Example
+## Example
 
 ```javascript
 
