@@ -15,8 +15,7 @@
   "author": "Antoine Lenoir <antoine.alenoir@gmail.com>, Geza Kerecsenyi, Theodore Tucker, Pal Kerecsenyi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alenoir/username-generator/issues"
+    "url": "https://github.com/codeddraig/username-generator/issues"
   },
-  "homepage": "https://github.com/alenoir/username-generator#readme",
-  "packageManager": "yarn@4.0.2"
+  "homepage": "https://github.com/codeddraig/username-generator#readme"
 }
